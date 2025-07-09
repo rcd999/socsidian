@@ -3,6 +3,8 @@
 
 # Whitelist specific folders and their contents
 !.gitignore
+!README.md
+!LICENSE
 !Templates/
 !Templates/**
 !Tags/
