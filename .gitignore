@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Whitelist specific folders and their contents
+!.gitignore
+!Templates/
+!Templates/**
+!Tags/
+!Tags/**
+!Scripts/
+!Scripts/**
+!Story/
+!Story/Dashboards/
+!Story/Dashboards/**
