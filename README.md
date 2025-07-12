@@ -1,2 +1,2 @@
-# socsidian
-A set of Obsidian templates and configurations that have been tailored and stress tested for the SOC-life.
+# Red Obsidian
+A set of Obsidian templates and configurations for security research.

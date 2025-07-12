@@ -67,6 +67,16 @@ tR += table;
 
 ## Outcomes 🥅
 
+<%*
+const opener = ["`", "`", "`", "dataview", "\n"].join("");
+const closer = ["`", "`", "`"].join("");
+tR += opener;
+tR += `TABLE 
+WHERE created = this.date
+SORT due ASC, effort ASC
+`
+tR += closer;
+%>
 
 ---
 
